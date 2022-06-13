@@ -7,6 +7,8 @@ public class Hello {
         int b = 2;
 
         System.out.println(a + b);
-
+        System.out.println("Updated");
+        System.out.println("Second update");
+        System.out.println("Third update");
     }
 }
